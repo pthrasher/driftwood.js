@@ -4,7 +4,7 @@
   "main": "driftwood.js",
   "ignore": [
     "README.md",
-    "example/"
+    "example/",
     "test/"
   ]
 }
